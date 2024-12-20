@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_i_269_73)">
+<rect width="24" height="24" rx="4" fill="url(#pattern0_269_73)"/>
+</g>
+<defs>
+<filter id="filter0_i_269_73" x="0" y="0" width="24" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_269_73"/>
+</filter>
+<pattern id="pattern0_269_73" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_269_73" transform="scale(0.00444444)"/>
+</pattern>
+<image id="image0_269_73" width="225" height="225" xlink:href="data:image/jpeg;base64,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"/>
+</defs>
+</svg>

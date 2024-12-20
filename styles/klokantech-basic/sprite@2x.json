@@ -1,0 +1,1129 @@
+{
+  "1+": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4600,
+    "y": 1100
+  },
+  "a2b": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5200,
+    "y": 1100
+  },
+  "acer": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5800,
+    "y": 1100
+  },
+  "adani": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6400,
+    "y": 1100
+  },
+  "adiddas": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 7000,
+    "y": 1100
+  },
+  "allen solley": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3275,
+    "y": 0
+  },
+  "apollo": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3875,
+    "y": 0
+  },
+  "atm": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 3200,
+    "y": 1100
+  },
+  "audi": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4475,
+    "y": 0
+  },
+  "axisbank": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5075,
+    "y": 0
+  },
+  "bajaj": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5675,
+    "y": 0
+  },
+  "bank": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 2575,
+    "y": 0
+  },
+  "alcohol_shop": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 0,
+    "y": 1900
+  },
+  "beer": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 0,
+    "y": 1900
+  },
+  "basics": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6275,
+    "y": 0
+  },
+  "baskin & robins": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6875,
+    "y": 0
+  },
+  "beach": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 700,
+    "y": 1900
+  },
+  "bmw": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 0,
+    "y": 4150
+  },
+  "bus": {
+    "height": 800,
+    "pixelRatio": 25,
+    "width": 800,
+    "x": 975,
+    "y": 0
+  },
+  "cafe coffee day": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 600,
+    "y": 4150
+  },
+  "camp": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 1400,
+    "y": 1900
+  },
+  "cemetery": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 2100,
+    "y": 1900
+  },
+  "chargemod": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1200,
+    "y": 4150
+  },
+  "chargezone": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1800,
+    "y": 4150
+  },
+  "charging station": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 500,
+    "x": 2400,
+    "y": 4150
+  },
+  "charging station hexa": {
+    "height": 1100,
+    "pixelRatio": 25,
+    "width": 975,
+    "x": 0,
+    "y": 0
+  },
+  "chennai silks": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 2900,
+    "y": 4150
+  },
+  "church": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 2800,
+    "y": 1900
+  },
+  "clothing_store": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 0,
+    "y": 2650
+  },
+  "cafe": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 700,
+    "y": 2650
+  },
+  "default-icon": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 1400,
+    "y": 2650
+  },
+  "": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 1400,
+    "y": 2650
+  },
+  "amenity": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 1400,
+    "y": 2650
+  },
+  "leisure": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 1400,
+    "y": 2650
+  },
+  "costa": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3500,
+    "y": 4150
+  },
+  "crocs": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4100,
+    "y": 4150
+  },
+  "croma": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4700,
+    "y": 4150
+  },
+  "cycle zone": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 2100,
+    "y": 2650
+  },
+  "d mart": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5300,
+    "y": 4150
+  },
+  "dbs": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5900,
+    "y": 4150
+  },
+  "dell": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6500,
+    "y": 4150
+  },
+  "dlf": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 7100,
+    "y": 4150
+  },
+  "dominos": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 0,
+    "y": 4750
+  },
+  "college": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 2800,
+    "y": 2650
+  },
+  "school": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 2800,
+    "y": 2650
+  },
+  "faasos": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 600,
+    "y": 4750
+  },
+  "fabindia": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1200,
+    "y": 4750
+  },
+  "fb cakes": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1800,
+    "y": 4750
+  },
+  "fila": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 2400,
+    "y": 4750
+  },
+  "firstcry": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3000,
+    "y": 4750
+  },
+  "ford": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3600,
+    "y": 4750
+  },
+  "forest": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 0,
+    "y": 3400
+  },
+  "park": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 0,
+    "y": 3400
+  },
+  "gas station": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 700,
+    "y": 3400
+  },
+  "girias": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4200,
+    "y": 4750
+  },
+  "goec": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4800,
+    "y": 4750
+  },
+  "golf": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 1400,
+    "y": 3400
+  },
+  "grocery": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 2100,
+    "y": 3400
+  },
+  "grt": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5400,
+    "y": 4750
+  },
+  "gym": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 2800,
+    "y": 3400
+  },
+  "h&M": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6000,
+    "y": 4750
+  },
+  "hdfc": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6600,
+    "y": 4750
+  },
+  "hero": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 7200,
+    "y": 4750
+  },
+  "hilton": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 0,
+    "y": 5350
+  },
+  "honda": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 600,
+    "y": 5350
+  },
+  "hospital": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 3500,
+    "y": 1900
+  },
+  "hp": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1200,
+    "y": 5350
+  },
+  "hp station": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1800,
+    "y": 5350
+  },
+  "hsbc": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 2400,
+    "y": 5350
+  },
+  "hyundai": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3000,
+    "y": 5350
+  },
+  "ice_cream": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 4200,
+    "y": 1900
+  },
+  "icici": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3600,
+    "y": 5350
+  },
+  "ikea": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4200,
+    "y": 5350
+  },
+  "indian bank": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4800,
+    "y": 5350
+  },
+  "indian oil": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5400,
+    "y": 5350
+  },
+  "information": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 4900,
+    "y": 1900
+  },
+  "IOB": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6000,
+    "y": 5350
+  },
+  "jio bp": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6600,
+    "y": 5350
+  },
+  "jouelpoint": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 7200,
+    "y": 5350
+  },
+  "joyalukas": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 0,
+    "y": 5950
+  },
+  "kalyan": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 600,
+    "y": 5950
+  },
+  "karakoe": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 5600,
+    "y": 1900
+  },
+  "kfc": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1200,
+    "y": 5950
+  },
+  "kia": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1800,
+    "y": 5950
+  },
+  "kotak": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 2400,
+    "y": 5950
+  },
+  "ktm": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3000,
+    "y": 5950
+  },
+  "kvb": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3600,
+    "y": 5950
+  },
+  "laundry": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 6300,
+    "y": 1900
+  },
+  "lenovo": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4200,
+    "y": 5950
+  },
+  "lenskart": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4800,
+    "y": 5950
+  },
+  "library": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 500,
+    "x": 5400,
+    "y": 5950
+  },
+  "lulu": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5900,
+    "y": 5950
+  },
+  "magentha": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6500,
+    "y": 5950
+  },
+  "max": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 7100,
+    "y": 5950
+  },
+  "mcd": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 0,
+    "y": 6550
+  },
+  "medicals": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 7000,
+    "y": 1900
+  },
+  "metro": {
+    "height": 800,
+    "pixelRatio": 25,
+    "width": 800,
+    "x": 0,
+    "y": 1100
+  },
+  "mi": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 600,
+    "y": 6550
+  },
+  "more": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1200,
+    "y": 6550
+  },
+  "mosque": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 3500,
+    "y": 2650
+  },
+  "movies": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 4200,
+    "y": 2650
+  },
+  "muthoot": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1800,
+    "y": 6550
+  },
+  "naturals": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 2400,
+    "y": 6550
+  },
+  "nike": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3000,
+    "y": 6550
+  },
+  "nilgiris": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3600,
+    "y": 6550
+  },
+  "no entry": {
+    "height": 800,
+    "pixelRatio": 25,
+    "width": 800,
+    "x": 800,
+    "y": 1100
+  },
+  "no smoking": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 4900,
+    "y": 2650
+  },
+  "oyo": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4200,
+    "y": 6550
+  },
+  "pantaloons": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4800,
+    "y": 6550
+  },
+  "parking": {
+    "height": 800,
+    "pixelRatio": 25,
+    "width": 800,
+    "x": 1600,
+    "y": 1100
+  },
+  "pet store": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 5600,
+    "y": 2650
+  },
+  "peter england": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5400,
+    "y": 6550
+  },
+  "pizza hut": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6000,
+    "y": 6550
+  },
+  "pnb bank": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6600,
+    "y": 6550
+  },
+  "popeyes": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 7200,
+    "y": 6550
+  },
+  "puma": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 0,
+    "y": 7150
+  },
+  "pvr": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 600,
+    "y": 7150
+  },
+  "railway": {
+    "height": 800,
+    "pixelRatio": 25,
+    "width": 800,
+    "x": 2400,
+    "y": 1100
+  },
+  "raymond": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1200,
+    "y": 7150
+  },
+  "reliance": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1800,
+    "y": 7150
+  },
+  "reliance digital": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 2400,
+    "y": 7150
+  },
+  "relux": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3000,
+    "y": 7150
+  },
+  "fast_food": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 6300,
+    "y": 2650
+  },
+  "bar": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 7000,
+    "y": 2650
+  },
+  "restroom": {
+    "height": 800,
+    "pixelRatio": 25,
+    "width": 800,
+    "x": 1775,
+    "y": 0
+  },
+  "samsung": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3600,
+    "y": 7150
+  },
+  "sangeetha mobiles": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4200,
+    "y": 7150
+  },
+  "sathya": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4800,
+    "y": 7150
+  },
+  "sbi": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5400,
+    "y": 7150
+  },
+  "shell": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 625,
+    "x": 6000,
+    "y": 7150
+  },
+  "shopping": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 3500,
+    "y": 3400
+  },
+  "shop": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 3500,
+    "y": 3400
+  },
+  "skoda": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6625,
+    "y": 7150
+  },
+  "smoking": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 4200,
+    "y": 3400
+  },
+  "spar": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 0,
+    "y": 7750
+  },
+  "specs makers": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 600,
+    "y": 7750
+  },
+  "stadium": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 4900,
+    "y": 3400
+  },
+  "sport": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 4900,
+    "y": 3400
+  },
+  "standard charted": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1200,
+    "y": 7750
+  },
+  "starbucks": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 1800,
+    "y": 7750
+  },
+  "statiq": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 2400,
+    "y": 7750
+  },
+  "lodging": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 5600,
+    "y": 3400
+  },
+  "store": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 6300,
+    "y": 3400
+  },
+  "subway": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3000,
+    "y": 7750
+  },
+  "suzuki": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 3600,
+    "y": 7750
+  },
+  "tacobell": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4200,
+    "y": 7750
+  },
+  "taj": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 4800,
+    "y": 7750
+  },
+  "tanishk": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 5400,
+    "y": 7750
+  },
+  "tata ez": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6000,
+    "y": 7750
+  },
+  "temple": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 7000,
+    "y": 3400
+  },
+  "titan": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 6600,
+    "y": 7750
+  },
+  "toni&guy": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 7200,
+    "y": 7750
+  },
+  "town_hall": {
+    "height": 750,
+    "pixelRatio": 25,
+    "width": 700,
+    "x": 3900,
+    "y": 1100
+  },
+  "toyota": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 7700,
+    "y": 4150
+  },
+  "tvs": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 8300,
+    "y": 4150
+  },
+  "vasanthabavan": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 8900,
+    "y": 4150
+  },
+  "wow momo": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 9500,
+    "y": 4150
+  },
+  "yesbank": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 10100,
+    "y": 4150
+  },
+  "zara": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 10700,
+    "y": 4150
+  },
+  "zeon": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 625,
+    "x": 11300,
+    "y": 4150
+  },
+  "zoho": {
+    "height": 600,
+    "pixelRatio": 25,
+    "width": 600,
+    "x": 11925,
+    "y": 4150
+  }
+}
