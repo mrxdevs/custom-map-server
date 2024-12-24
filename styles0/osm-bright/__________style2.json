@@ -80,6 +80,7 @@
         "type": "background",
         "paint": {"background-color": "rgba(243, 249, 254, 1)"}
       },
+      
       {
         "id": "indian-ocean",
         "type": "fill",

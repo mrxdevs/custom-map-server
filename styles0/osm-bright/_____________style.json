@@ -57,26 +57,23 @@
     "openmaptiles": {
       "type": "vector",
       "url": "mbtiles://{openmaptiles}"
+    },
+    "traffic":{
+      "type":"vector",
+      "url":"mbtiles://{traffic}"
+    },
+    "chargers":{
+      "type":"vector",
+      "url":"mbtiles://{chargers}"
     }
     
+  
+   
   },
    
   "glyphs": "{fontstack}/{range}.pbf",
   "layers": [
-    {
-      "id": "border-layer",
-      "type": "line",
-      "source": "border",
-      "source-layer": "border",
-      "layout": {
-        "line-join": "round",
-        "line-cap": "round"
-      },
-      "paint": {
-        "line-color": "#FF0000",   
-        "line-width": 2            
-      }
-    },
+    
     {
         "id": "ocean-boundary",
         "type": "fill",
@@ -1060,15 +1057,7 @@
       "line-opacity": 0.5
     }
   },
-  {
-    "id": "indian-ocean",
-    "type": "fill",
-    "source": "sea",
-    "source-layer": "map_indian_ocean",
-    "paint": {
-      "fill-color": "rgba(106, 187, 221, 1)"
-    }
-  },
+  
   {
     "id": "place_label_other",
     "type": "symbol",
@@ -1194,6 +1183,47 @@
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 2
       }
+    },
+    {
+      "id": "debug-all-signals",
+      "type": "symbol",
+      "source": "traffic",
+      "source-layer":"traffic_signals",
+      "layout": {
+        "icon-image": "traffic_signals_sec", 
+        "icon-size": 1.3
+      },
+      "paint": {
+  
+    },
+      "minzoom": 15
+    },
+    {
+      "id": "charging-stations",
+      "type": "symbol",
+      "source": "chargers",
+      "source-layer": "chargers",
+      "layout": {
+        "icon-image": [
+          "match",
+          ["get", "charger_network"],
+          "Zeon Charging", "Zeon_Charging",
+          "charging-station-changed"
+        ],
+        "icon-size": 1.0,
+        "text-anchor": "top",
+        "text-field": "{charger_name}",
+        "text-font": ["Noto Sans Regular"],
+        "text-max-width": 9,
+        "text-offset": [0, 1.2],
+        "text-padding": 2,
+        "text-size": 12,
+        "visibility": "visible"
+      },
+      "paint": {
+    
+      },
+      "minzoom": 9
     }
   ]
 }

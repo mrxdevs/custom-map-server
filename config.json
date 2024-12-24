@@ -26,9 +26,15 @@
     "openmaptiles": {
       "mbtiles": "india-asia.mbtiles"
     },
-    "traffic": {
-      "mbtiles": "features.mbtiles"
-     
+    "traffic":{
+      "mbtiles":"features.mbtiles"
+    },
+   
+    "chargers":{
+      "mbtiles":"chargers.mbtiles"
     }
+ 
+   
   }
+  
 }
